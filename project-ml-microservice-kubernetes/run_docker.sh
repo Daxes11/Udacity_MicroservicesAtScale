@@ -4,7 +4,7 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build -t udacity .
+docker build -t tabular11/udacity .
 
 # Step 2: 
 # List docker images
