@@ -1,5 +1,5 @@
 <include a CircleCI status badge, here>
-![Daxes11](https://circleci.com/gh/Daxes11/Udacity_MicroservicesAtScale.svg?style=svg)](https://app.circleci.com/pipelines/github/Daxes11/Udacity_MicroservicesAtScale/)
+[![Daxes11](https://circleci.com/gh/Daxes11/Udacity_MicroservicesAtScale.svg?style=svg)](https://app.circleci.com/pipelines/github/Daxes11/Udacity_MicroservicesAtScale/)
 
 ## Project Overview
 
