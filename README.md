@@ -27,6 +27,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * `Dockerfile` is needed to build our docker container
 * `requirements.txt` contains all dependencies needed for our app
 * `run_docker.sh` and `run_kubernetes.sh` can be used to run `app.py` (see below)
+* `upload_docker.sh` can be used to upload your Docker container to Docker Hub
 * `output_txt_files` has some sample outputs included
 * Under `.circleci` you can find the circleci config to test the project 
 
